@@ -1,25 +1,20 @@
-# powerbi-dashboard-vendas-custos-margem
 ## 📊 Dashboard de Vendas, Custos e Margem de Lucro
 
-Projeto desenvolvido em Power BI com foco em análise de vendas, custos operacionais e margem de lucro,
-utilizando dados de uma atividade prática da Data Science Academy.
+Projeto desenvolvido em **Power BI** com foco na análise de desempenho de vendas, custos operacionais e margem de lucro, utilizando dados de uma atividade prática da **Data Science Academy**.
 
-## 🎯 Objetivo
-Analisar o desempenho de vendas e rentabilidade ao longo do tempo,
-identificando variações por categoria, mercado e modo de envio.
+### 🎯 Objetivo
+Analisar a rentabilidade ao longo do tempo, identificando variações por **categoria**, **mercado** e **modo de envio**, apoiando a tomada de decisão.
 
-## 🛠️ Ferramentas
+### 🛠️ Ferramentas e Conceitos
 - Power BI
-- DAX (Data Analysis Expressions)
+- DAX
 - Modelagem de Dados
+- KPIs
+- Relacionamentos e Cardinalidade
 
-## 🔎 Principais Análises
+### 🔎 Principais Análises
 - Média de lucro por categoria
-- Valor total de vendas por modo de envio
+- Total de vendas por modo de envio
 - Custo médio de envio por mercado
 - Evolução da margem de lucro ao longo do tempo
-- KPI de média de valor de venda
-
-- ## 📌 Observação
-Este foi meu primeiro dashboard desenvolvido em Power BI, representando o início da minha jornada
-em análise de dados e servindo como base para projetos mais avançados.
+- KPI de valor médio de vendas
