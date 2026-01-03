@@ -19,3 +19,7 @@ identificando variações por categoria, mercado e modo de envio.
 - Custo médio de envio por mercado
 - Evolução da margem de lucro ao longo do tempo
 - KPI de média de valor de venda
+
+- ## 📌 Observação
+Este foi meu primeiro dashboard desenvolvido em Power BI, representando o início da minha jornada
+em análise de dados e servindo como base para projetos mais avançados.
